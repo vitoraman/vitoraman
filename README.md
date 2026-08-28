@@ -1,37 +1,68 @@
-# Vitor Silva Amâncio
+<h1 align="center">⛏️ Hello, eu sou o Vitor Silva Amâncio! 💻</h1>
 
-🎓 **Engenharia de Computação | IFMS - Campus Três Lagoas**
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1a/df/97/1adf97a8c8868fb676f455e34749fbda.gif" width="100%" style="max-width: 500px;" />
+</p>
 
----
-
-### 📖 Sobre Mim
-Sou estudante de Engenharia de Computação no Instituto Federal de Mato Grosso do Sul (IFMS) - Campus Três Lagoas, onde ingressei em outubro de 2024, com previsão de conclusão para dezembro de 2029[cite: 1]. Possuo conhecimentos em linguagem C, lógica de programação e fundamentos da computação[cite: 1]. 
-
-Meu foco de aprendizado e interesse concentra-se nas áreas de desenvolvimento de software, eletrônica e sistemas embarcados[cite: 1]. Atualmente, busco a minha primeira oportunidade de estágio na área de tecnologia, com o objetivo de aplicar os conhecimentos adquiridos na graduação, desenvolver novas habilidades e contribuir com as demandas do setor[cite: 1].
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-*   **Linguagens de Programação:** C, C++, Python
-*   **Desenvolvimento e Dados:** FastAPI, estruturação de pipelines ETL, modelagem de banco de dados
-*   **Sistemas e Infraestrutura:** Linux (Arch Linux, Linux Mint, Zorin OS), Shell (Zsh, Kitty), Hyprland
-*   **Sistemas Embarcados e Automação:** Lógica Ladder (CLP), TwidoSuite
-*   **Bibliotecas:** Raylib
+<p align="center">
+  <strong><em>Estudante de Engenharia de Computação no IFMS – Campus Três Lagoas</em></strong>
+</p>
 
 ---
 
-### 🏗️ Projetos e Experiência Acadêmica
+### 👨🏽‍🎓 Sobre mim
 
-*   **PET-Saúde Digital:** Desenvolvimento do back-end em FastAPI para uma aplicação web de calendário de saúde. Criação de pipelines ETL para integração e tratamento de dados oriundos de bancos de saúde pública (como SISREG e SISAB).
-*   **Mapeamento de Zoonoses (Projeto TSLReload):** Projeto arquitetado em colaboração com o Centro de Controle de Zoonoses (CCZ) de Três Lagoas para o mapeamento de infestações de escorpiões por meio de uma aplicação web.
-*   **Corretor de Código de Hamming:** Desenvolvimento de uma aplicação desktop educacional em C puro, utilizando a biblioteca Raylib para a interface gráfica, com o objetivo de codificar e decodificar códigos para correção de erros.
-*   **Simulação em CLP:** Elaboração, simulação e documentação de programas utilizando Lógica Ladder no software TwidoSuite, voltados para sistemas de controle como semáforos e níveis de reservatórios.
+Sou apaixonado por tecnologia e busco minha primeira oportunidade de estágio na área. Tenho foco em aprender e aplicar conhecimentos para criar soluções eficientes, com comprometimento e vontade de me desenvolver profissionalmente.
+
+#### 🎯 **Áreas de interesse**:  
+`Desenvolvimento de Software` | `Sistemas Embarcados` | `Eletrônica` | `Engenharia de Dados (ETL)` | `Automação` | `Infraestrutura`
 
 ---
 
-### 🧭 Contato
+### 🛠️ Habilidades Técnicas
 
-*   ✉️ **E-mail:** vitor.silva.amancio0@gmail.com[cite: 1]
-*   💼 **LinkedIn:** [Seu LinkedIn]
-*   📄 **Currículo Lattes:** [Link para o Lattes]
+| Linguagens | Ferramentas & Frameworks | Sistemas & Outros |
+|-----------|---------------------------|--------|
+| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ⚙️ Lógica Ladder (TwidoSuite), Raylib, Zsh, Hyprland |
+
+---
+
+### 🎓 Formação Acadêmica
+
+- 💻 **Bacharelado em Engenharia de Computação** (Out/2024 – Previsão: Dez/2029)  
+  Instituto Federal de Mato Grosso do Sul – IFMS (Três Lagoas)
+
+---
+
+### 🚀 Experiência Acadêmica & Projetos
+
+- 🏥 **PET-Saúde Digital (2026)** Desenvolvimento do back-end em FastAPI para uma aplicação web de calendário de saúde e criação de pipelines ETL para integração de dados de bancos de saúde pública (SISREG e SISAB).
+
+- 🦂 **Mapeamento de Zoonoses – Projeto TSLReload (2025)** Arquitetura e desenvolvimento de uma aplicação web focada no mapeamento de infestações de escorpiões, em colaboração com o Centro de Controle de Zoonoses (CCZ) local.
+
+- 🛡️ **Corretor de Códigos de Hamming (2026)** Aplicação desktop educacional desenvolvida em linguagem C pura, utilizando a biblioteca Raylib para a interface gráfica, voltada para codificação e decodificação de erros.
+
+- 🚦 **Simulação em CLP (2026)** Elaboração, simulação e documentação de programas utilizando Lógica Ladder no software TwidoSuite para controle de semáforos e níveis de reservatórios.
+
+---
+
+### 🌱 Idiomas
+
+- 🇧🇷 Português – Nativo  
+- 🇺🇸 Inglês – Técnico/Intermediário *(em desenvolvimento)*
+
+---
+
+### 📫 Contato e Redes
+
+Vamos nos conectar? Me encontre por aqui:
+
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vitor.silva.amancio0@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)  [![Lattes](https://img.shields.io/badge/Lattes-0071C5?style=flat)](http://lattes.cnpq.br/0368248292582915)
+
+---
+
+<p align="center">
+  <strong><em>✨ "Explorando código e minerando o futuro, um bloco de cada vez." ✨</em></strong>
+</p>
+
+<h3 align="center">⚔️ Let's code! 🚀</h3>
