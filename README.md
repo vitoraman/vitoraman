@@ -20,8 +20,8 @@
 
 - 🎓 Cursando **Engenharia de Computação** no Instituto Federal de Mato Grosso do Sul (IFMS).
 - 🔬 Interesses principais: **Desenvolvimento de Software**, **Eletrônica** e **Sistemas Embarcados**.
-- 🧠 Fortalecendo a base em **Lógica de Programação**, **Fundamentos da Computação** e **Linguagem C**[cite: 1].
-- 🎯 Atualmente em busca da **primeira oportunidade de estágio** na área de tecnologia[cite: 1].
+- 🧠 Fortalecendo a base em **Lógica de Programação**, **Fundamentos da Computação** e **Linguagem C**
+- 🎯 Atualmente em busca da **primeira oportunidade de estágio** na área de tecnologia
 
 ---
 
