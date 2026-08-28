@@ -13,7 +13,7 @@
 
 Estudante de Engenharia de Computação no Instituto Federal de Mato Grosso do Sul (IFMS). Busco minha primeira oportunidade de estágio na área de tecnologia para aplicar meus conhecimentos e contribuir com o desenvolvimento de soluções na prática.
 
-#### 🎯 **Áreas de interesse**:  
+### <img src="https://raw.githubusercontent.com/themuhamed/mcicons/main/public/icons/minecraft_target.png" width="30" align="absmiddle" /> **Áreas de interesse**:  
 `Desenvolvimento Web` | `Desenvolvimento de Software` | `Sistemas Embarcados` | `Eletrônica` | `Engenharia de Dados (ETL)` | `Automação` | `Infraestrutura`
 
 ---
@@ -22,7 +22,7 @@ Estudante de Engenharia de Computação no Instituto Federal de Mato Grosso do S
 
 | Linguagens | Ferramentas & Frameworks | Sistemas Operacionais |
 |-----------|---------------------------|--------|
-| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white) ![Omarchy](https://img.shields.io/badge/Omarchy-9ECE6A?style=flat&logo=omarchy&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat&logo=windows11&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white) ![Omarchy](https://img.shields.io/badge/Omarchy-9ECE6A?style=flat&logo=omarchy&logoColor=black) ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat&logo=windows11&logoColor=white) |
 
 ---
 
