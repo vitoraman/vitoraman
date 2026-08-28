@@ -47,4 +47,4 @@ Estudante de Engenharia de Computação no Instituto Federal de Mato Grosso do S
 
 ### <img src="https://raw.githubusercontent.com/undrfined/mc-icons/master/pics/345_Compass.png" width="30" align="absmiddle" /> Contato e Redes
 
-[![Email](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vitor.silva.amancio0@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)  [![Lattes](https://img.shields.io/badge/Lattes-0071C5?style=flat)](http://lattes.cnpq.br/0368248292582915)
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vitor.silva.amancio0@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-am%C3%A2ncio-41a155432/)  [![Lattes](https://img.shields.io/badge/Lattes-0071C5?style=flat)](http://lattes.cnpq.br/0368248292582915)
