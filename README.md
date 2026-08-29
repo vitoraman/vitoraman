@@ -17,7 +17,7 @@
 Estudante de Engenharia de Computação no Instituto Federal de Mato Grosso do Sul (IFMS). Busco minha primeira oportunidade de estágio na área de tecnologia para aplicar meus conhecimentos e contribuir com o desenvolvimento de soluções na prática.
 
 ### <img src="https://raw.githubusercontent.com/themuhamed/mcicons/main/public/icons/minecraft_target.png" width="30" align="absmiddle" /> **Áreas de interesse**:  
-`Desenvolvimento Web` | `Desenvolvimento de Software` | `Sistemas Embarcados` | `Eletrônica` | `Engenharia de Dados (ETL)` | `Automação` | `Infraestrutura`
+`Desenvolvimento Web` | `Desenvolvimento de Software` | `Sistemas Embarcados` | `Eletrônica` | `Engenharia de Dados (ETL)`
 
 ---
 
