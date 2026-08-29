@@ -37,8 +37,6 @@ Estudante de Engenharia de Computação no Instituto Federal de Mato Grosso do S
 
 - **Corretor de Códigos de Hamming (2026):** Aplicação desktop educacional desenvolvida em linguagem C pura, utilizando a biblioteca Raylib para a interface gráfica, voltada para codificação e decodificação de erros.
 
-- **Simulação em CLP (2026):** Elaboração, simulação e documentação de programas utilizando Lógica Ladder no software TwidoSuite para controle de semáforos e níveis de reservatórios.
-
 ---
 
 ### <img src="https://raw.githubusercontent.com/undrfined/mc-icons/master/pics/340_Book.png" width="30" align="absmiddle" /> Formação Acadêmica
