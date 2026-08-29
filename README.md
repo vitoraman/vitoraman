@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="mines.gif" width="300" />
+  <img src="mines.gif" width="500" />
 </p>
 <p align="center">
   <strong><em>Estudante de Engenharia de Computação no IFMS – Campus Três Lagoas</em></strong>
