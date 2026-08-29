@@ -2,8 +2,9 @@
   <img src="https://raw.githubusercontent.com/undrfined/mc-icons/master/pics/278_Diamond%20Pickaxe.png" width="40" align="absmiddle" /> 
   Olá, eu sou o Vitor Amâncio
 </h1>
+
 <p align="center">
-<img src="https://i.makeagif.com/media/1-02-2023/S3VfyW.gif" width="300" />
+  <img src="mine.gif" width="300" />
 </p>
 <p align="center">
   <strong><em>Estudante de Engenharia de Computação no IFMS – Campus Três Lagoas</em></strong>
